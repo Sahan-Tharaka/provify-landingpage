@@ -1,6 +1,6 @@
-# Quantis | Compound Your Legacy
+# Provify | Outperform Expectations. Retain Every Client.
 
-Institutional-grade asset management landing page — a Swiss-inspired, technical design system with scroll reveals, animated counters, and a distinctive visual identity.
+Agency Client Reporting SaaS landing page — a Swiss-inspired, technical design system with scroll reveals, animated counters, and a distinctive visual identity.
 
 ## Tech Stack
 
